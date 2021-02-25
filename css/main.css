@@ -14,7 +14,10 @@ h1 {
 	color: white;
 	font-size: 26px;
 	padding: 10px 10px;
+	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
 }
+
 
 p {
 	background-color: #F4F4F4;
@@ -23,4 +26,20 @@ p {
 	padding: 30px 30px;
 	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 
+}
+
+.kenya {
+	background-color: #2F5D8C;
+}
+
+.germany {
+	background-color: #A0B3C1;
+}
+
+.china {
+	background-color: #CD7E59;
+}
+
+.denmark {
+	background-color: #93ABA1;
 }
