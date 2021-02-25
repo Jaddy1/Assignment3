@@ -14,8 +14,8 @@ h1 {
 	color: white;
 	font-size: 26px;
 	padding: 10px 10px;
-	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
+  	text-shadow: 2px 2px 3px #414245;
 }
 
 
@@ -24,7 +24,7 @@ p {
 	margin: auto;
 	width: 90%;
 	padding: 30px 30px;
-	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
 
 }
 

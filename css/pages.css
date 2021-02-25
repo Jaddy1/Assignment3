@@ -12,10 +12,21 @@ div {
 h1 {
 	background-color: #739086;
 	color: white;
+	font-size: 32px;
+	padding: 10px 10px;
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
+	text-align: center;
+  	text-shadow: 2px 2px 3px #414245;
+
+}
+
+h2 {
+	background-color: #7c8191;
+	color: white;
 	font-size: 26px;
 	padding: 10px 10px;
-	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
+  	text-shadow: 2px 2px 3px #414245;
 }
 
 p {
@@ -23,5 +34,21 @@ p {
 	margin: auto;
 	width: 90%;
 	padding: 30px 30px;
-	box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
+}
+
+.nairobi {
+	background-color: #2F5D8C;
+}
+
+.oberursel {
+	background-color: #A0B3C1;
+}
+
+.fuzhou {
+	background-color: #CD7E59;
+}
+
+.copen {
+	background-color: #93ABA1;
 }
