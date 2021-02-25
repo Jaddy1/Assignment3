@@ -28,6 +28,10 @@ p {
 
 }
 
+img {
+	border-radius: 50%;
+}
+
 .kenya {
 	background-color: #2F5D8C;
 }
