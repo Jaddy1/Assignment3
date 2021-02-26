@@ -2,11 +2,12 @@ body {
 	font-family: sans-serif;
 }
 
-div {
+.container {
 	margin: auto;
 	width: 75%;
 	padding: 10px 10px;
 	line-height: 1.5;
+	display:flex;
 }
 
 h1 {
@@ -33,7 +34,7 @@ img {
 	float: left;
 	width: 200px;
 	height: 200px;
-	margin: 10px 10px 10px 50px;
+
 }
 
 .kenya {
