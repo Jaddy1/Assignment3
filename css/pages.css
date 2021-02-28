@@ -2,11 +2,14 @@ body {
 	font-family: sans-serif;
 }
 
-div {
+.container {
 	margin: auto;
 	width: 75%;
 	padding: 10px 10px;
 	line-height: 1.5;
+	background-color: #F4F4F4;
+	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
+
 }
 
 h1 {
@@ -30,11 +33,9 @@ h2 {
 }
 
 p {
-	background-color: #F4F4F4;
 	margin: auto;
 	width: 90%;
 	padding: 30px 30px;
-	box-shadow: rgba(99, 99, 99, 0.2) 2px 3px 10px 2px;
 }
 
 .nairobi {
